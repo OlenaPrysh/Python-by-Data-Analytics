@@ -6,3 +6,4 @@
 - hw_9_2_Словники,_набори,_кортежі_lena - cловники, набори, кортежі
 - hw_9_2_Control_Flow_Lena - Control Flow
 - hw_9_3_Цикл_for_lena - Цикл for
+- hw_9_3_Comprehensions_Lena - Comprehensions
