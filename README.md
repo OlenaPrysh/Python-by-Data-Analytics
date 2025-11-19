@@ -8,3 +8,4 @@
 - hw_9_3_Цикл_for_lena - Цикл for
 - hw_9_3_Comprehensions_Lena - Comprehensions
 - hw_9_3_Цикл_while_Lena - Цикл_while
+- 9_4_Функціїї_Основи_Lena - Функціїї_Основи
